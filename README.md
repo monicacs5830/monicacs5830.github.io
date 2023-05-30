@@ -16,5 +16,5 @@ Feel free to reach out if you have any questions about these projects or any oth
 
 * [LinkedIn](https://www.linkedin.com/in/monica-chandramurthy-m1995/)
 
-You can also find my complete portfolio on my [GitHub Page]([https://github.com/monicacs5830/monicacs5830.github.io/]).
+You can also find my complete portfolio on my [GitHub Page]([https://monicacs5830.github.io]).
 
